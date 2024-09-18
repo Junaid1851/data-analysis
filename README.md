@@ -1,2 +1,1 @@
-# data-analysis
-python, powerbi, sql, and an app
+![alt text](data-analysis/Bike Sales/Dashboard.png)
